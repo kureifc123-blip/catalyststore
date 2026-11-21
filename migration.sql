@@ -1,0 +1,1 @@
+ALTER TABLE "listings" ADD COLUMN "images" jsonb DEFAULT '[]' NOT NULL;
