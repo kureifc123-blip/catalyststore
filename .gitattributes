@@ -1,0 +1,10 @@
+# Normalisasi akhir baris agar konsisten di Windows, macOS, dan Linux
+* text=auto eol=lf
+
+# File biner
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
